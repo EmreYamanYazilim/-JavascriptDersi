@@ -49,11 +49,9 @@
             break
         default:
             console.log("bilgi yanlış");
-
     }
 </script>
 </body>
-
 </html>
 
 </script>
